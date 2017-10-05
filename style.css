@@ -1,5 +1,6 @@
 .center {
-text-align: center;
+    text-align: center;
+    margin-top: 30px;
 }
 ul {
     list-style: none;
@@ -16,4 +17,14 @@ img {
     background-color: white;
     position: fixed;
     bottom: 0;
+}
+#input-parent {
+    width: 160px;
+    margin: 0 auto;
+}
+#headers h1 {
+    margin: 0;
+}
+#headers h2 {
+    margin: 0 auto 60px auto;
 }
